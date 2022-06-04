@@ -1,9 +1,9 @@
-# 👋 Welcome to EVER Wallet
+# 👋 에버월릿(EVER Wallet)에 오심을 환영합니다.
 
-The [Broxus team](https://broxus.com/) welcomes you to the Gitbook EVER Wallet page!\
-On the pages of this space you will find everything you need to know to use [EVER Wallet](https://l1.broxus.com/everscale/wallet).
+[Broxus 팀](https://broxus.com/)의 Gitbook 에버월릿(EVER Wallet) 페이지에 오신 것을 환영합니다!\
+본 페이지에서 [에버월릿(EVER Wallet)](https://l1.broxus.com/everscale/wallet)을 사용하기 위해 알아야 할 모든 것을 찾으실 수 있습니다.
 
-If you are not familiar with [EVER Wallet](https://l1.broxus.com/everscale/wallet) yet or are planning to start getting acquainted with it, go to the start page!
+[에버월릿(EVER Wallet)](https://l1.broxus.com/everscale/wallet)이 아직 익숙하지 않으신 분들께서는 시작페이지로 가십시오.
 
 {% content-ref url="getting-started/" %}
 [getting-started](getting-started/)
