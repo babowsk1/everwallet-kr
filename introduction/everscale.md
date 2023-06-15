@@ -1,15 +1,8 @@
-# Everscale
+# 에버스케일
 
-Everscale is the most scalable blockchain network in existence. The network’s incomparable scalability is due to its dynamic sharding mechanism which enables it to process millions of transactions per second and charge infinitesimal transaction fees.&#x20;
+에버스케일은 현존하는 가장 확장성이 뛰어난 블록체인 네트워크입니다. 타의 추종을 불허하는 에버스케일 고유의 확장성은 초당 수백만 건의 거래를 처리하며 극히 낮은 거래수수료를 청구하는 다이나믹 샤딩 기술 덕분입니다. 당초 에버스케일은 텔레그램 오픈 네트워크(Telegram Open Network, TON) 프로젝트의 중단과 더불어 시작되었습니다. TON의 개발이 중단되고 관련기술이 모두 오픈소스로 풀리자 에버스케일 개발자 팀은 해당 기술의 잠재력에 주목하여 개발을 이어가기로 결정했습니다.&#x20;
 
-The network was started in the aftermath of the Telegram Open Network project. Once development was halted on TON and the technology behind it became open source, a team of developers decided that the potential the technology had was too good to let go to waste.&#x20;
+브록서스를 포함한 에버스케일의 개발사들은 초기부터 네트워크의 기능과 제품을 완전히 재구성하여 탈중앙금융(DeFi)분야에서 가장 강력한 생태계 중 하나를 구축, 기본 탈중앙거래소(DEX), 크로스-체인 브리지(Bridge), 지갑(Wallet), 보조금 프로그램 등으로 채웠습니다. 이러한 발전과정 속에 커뮤니티는 네트워크명을 에버스케일(Everscale)로 변경했습니다. 네트워크는 확장용량과 거래처리속도를 극적으로 증가시켰으며 바로 이것이 새 네트워크명이 에버스케일로 결정된 이유입니다. (EVER-영원히, SCALE-확장하다) 그 결과 탈중앙운영 체제와 짝을 이루는 엄청난 확장성의 분산형 세계 컴퓨터 형태의 새롭고 독특한 블록체인 설계가 탄생했습니다. 에버스케일은 Turing-complete 스마트 계약 및 탈중앙형 사용자 인터페이스를 통해 초당 수백만 건의 트랜잭션을 처리할 수 있는 Ever OS라는 플랫폼을 기반으로 합니다. 에버스케일은 동적 멀티스레딩, 소프트 다수 합의 및 탈중앙 프로그래밍과 같은 몇 가지 새롭고 고유한 속성을 제공하여 동시에 확장 가능하고 빠르고 안전할 수 있습니다. 그리고 이는 Soft Majority Voting 프로토콜을 통해 능력주의 원칙에 따라 설립된 탈중앙 커뮤니티에 의해 관리됩니다. 에버스케일은 솔리디티 및 C++용 컴파일러, SDK 및 API, 20개 이상의 언어 및 플랫폼으로 구성된 클라이언트 라이브러리, DeFi, NFT, 토큰화 및 거버넌스 도메인의 많은 애플리케이션을 지원하는 다양한 탈중앙 브라우저 및 지갑 등의 강력한 개발자 도구를 보유하고 있습니다.
 
-Since the start, Everscale developers like Broxus have reimagined the network’s capabilities and offerings, building one of the most formidable ecosystems in all of DeFi, replete with a native DEX, cross-chain bridge platform, wallet, grant program and more.&#x20;
 
-The advancements spurred the community to change the name of the network to Everscale. Under the hood, the changes that were introduced have increased the scaling capacity of the network and the transaction processing speed, which is why Everscale was chosen as for the new name.&#x20;
 
-The result is a new and unique blockchain design that proposes a scalable decentralized world computer, paired with a distributed operating system. Everscale is based on a platform called Ever OS, capable of processing millions of transactions per second, with Turing-complete smart contracts and decentralized user interfaces.&#x20;
-
-Everscale presents some new and unique properties, such as dynamic multithreading, soft majority consensus and distributed programming, which enable it to be scalable, fast and secure at the same time. It is governed by a decentralized community founded upon meritocratic principles via Soft Majority Voting protocol.
-
-Everscale has powerful developer tools, such as compilers for Solidity and C++, SDK and API, client libraries ported to more than 20 languages and platforms, a range of decentralized browsers and wallets empowering many applications in DeFi, NFT, tokenization and governance domains.

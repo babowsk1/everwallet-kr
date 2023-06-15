@@ -1,8 +1,8 @@
 ---
-description: Install EVER Wallet Chrome extension
+description: 에버월렛 구글 확장프로그램을 설치합니다
 ---
 
-# EVER Wallet Extension
+# 에버월렛 구글 확장프로그램
 
 1. Go to the [download page](https://l1.broxus.com/) and select **Chrome Web Store**
 2. Click **Add to Chrome** and then confirm this action by clicking **Add extension.**
@@ -10,7 +10,7 @@ description: Install EVER Wallet Chrome extension
 
 ![](<../../../.gitbook/assets/image (43).png>)
 
-Immediately after installation, you will be redirected to the "Welcome to EVER Wallet" page, where you will be asked to:&#x20;
+Immediately after installation, you will be redirected to the "Welcome to EVER Wallet" page, where you will be asked to:
 
 * [Create a new wallet](../creating-a-new-wallet.md)
 * [Sign in with seed phrase](../sign-in-with-existing-seed-phrase.md)

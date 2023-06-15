@@ -1,10 +1,10 @@
 ---
-description: Install EVER Wallet Android/Ios app
+description: 안드로이드와 애플 iOS로 여러분의 에버스케일 지갑인 에버월렛을 설치하세요
 ---
 
-# EVER Wallet App
+# 에버월렛 앱
 
-1. Go to the [download page](https://l1.broxus.com/) and select Google Play or Apple Store.
-2. Install EVER Wallet in the appropriate app.
+1. [다운로드 페이지](https://l1.broxus.com/) 로 가셔서 구글 플레이나 애플 앱스토어 중 귀하에게 맞는 것을 클릭하십시오.
+2. 디바이스에 맞는 에버월렛을 설치합니다.
 
-After installation, proceed to [create ](../creating-a-new-wallet.md)or [import ](../sign-in-with-existing-seed-phrase.md)a wallet.
+설치 후 [생성 ](../creating-a-new-wallet.md)은 [불러오기 ](../sign-in-with-existing-seed-phrase.md)하여 지갑사용을 시작합니다.

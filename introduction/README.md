@@ -1,6 +1,6 @@
 ---
-description: Introduction to EVER Wallet.
+description: 에버월렛을 소개합니다.
 ---
 
-# 👨🏫 Introduction
+# 소개
 
