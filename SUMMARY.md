@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to EVER Wallet](README.md)
+* [에버월렛 페이지에 오신 것을 환영합니다](README.md)
 * [소개](introduction/README.md)
   * [에버월렛 소개](introduction/about-ever-wallet.md)
   * [에버스케일](introduction/everscale.md)

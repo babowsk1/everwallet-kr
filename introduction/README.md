@@ -1,5 +1,5 @@
 ---
-description: 에버월렛을 소개합니다.
+description: 에버월렛 소개
 ---
 
 # 소개
