@@ -1,6 +1,6 @@
 # Table of contents
 
-* [에버월렛 페이지에 오신 것을 환영합니다](README.md)
+* [에버월렛 페이지에 오신 것을 환영합니다.](README.md)
 * [소개](introduction/README.md)
   * [에버월렛 소개](introduction/about-ever-wallet.md)
   * [에버스케일](introduction/everscale.md)
@@ -17,7 +17,7 @@
       * [How to deploy your wallet](getting-started/install-and-singing-in/deploy/how-to-deploy-your-wallet/README.md)
         * [EVER Wallet App](getting-started/install-and-singing-in/deploy/how-to-deploy-your-wallet/ever-wallet-app.md)
         * [EVER Wallet Extension](getting-started/install-and-singing-in/deploy/how-to-deploy-your-wallet/ever-wallet-extension.md)
-  * [How to get EVER](getting-started/how-to-get-ever.md)
+  * [에버(EVER) 구매 방법](getting-started/how-to-get-ever.md)
 * [Manage assets](manage-assets/README.md)
   * [How to add tokens to your wallet](manage-assets/how-to-add-tokens-to-your-wallet.md)
   * [Sending and receiving tokens](manage-assets/sending-and-receiving-tokens.md)
