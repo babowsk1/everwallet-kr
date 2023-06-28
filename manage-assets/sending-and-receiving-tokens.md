@@ -1,31 +1,40 @@
-# Sending and receiving tokens
+# 토큰 전송(송금)과 수신(입금)
 
 {% embed url="https://youtu.be/pbFhkeKt7X4" %}
 
-## Receiving
+## 수신 (입금)
 
-In order to find your address or QR code for receiving tokens click on the <mark style="color:orange;">**Receive**</mark> <mark style="color:orange;"></mark><mark style="color:orange;"></mark> button. \
-This is your account address where your tokens will be stored. \
-You will have to share this address with whoever will send you tokens, regardless of the token being sent (this applies, of course, only to EVER token and other TIP-3.1 tokens).
+자금을 입금받을 귀하의 지갑주소 혹은 QR코드를 확인하기 위해서는 "<mark style="color:orange;">**받기(Receive)**</mark>"버튼을 눌러 주십시오.&#x20;
+
+그 뒤 표시되는 주소가 바로 여러분의 토큰(자산)이 보관될 계정주소(계좌)입니다.&#x20;
+
+누구든 귀하께 자금을 송금할 시 (귀하의) 지갑주소를 송금자에게 전달하면 EVER 및 기타 TIP-3.1 토큰을 받을 수 있습니다.\
+
 
 ![](<../.gitbook/assets/image (12).png>)
 
-## Sending
+## 전송 (송금)
 
-In order to send tokens click **Send**. \
-This will open up the send message tab where you will see a number of fields that you have to fill in:
+토큰을 전송(송금)하려면 "**보내기(Send)**"를 누르십시오.
+
+여기서 전송 메시지 페이지가 나옵니다. 토큰의 종류, 액수, 수신자의 주소 등을 작성하여 전송(송금)할 수 있습니다.&#x20;
 
 ![](<../.gitbook/assets/image (30).png>)
 
-**(1) Select the token** you want to send (if the token is not displayed, add it in the [select assets menu](./)).\
-**(2)** Enter the **number of tokens** you want to send .\
-**(3)** Enter the [**receiver’s address**](sending-and-receiving-tokens.md#receiving)**.**\
-**(4)** **Commentary** (sometimes a receiver will require you to put something in this field).
+**(1) 보내고 싶은 토큰을 선택하세요 (만일 토큰이 나오지 않는다면, "**[**자산선택(Select assets)**](./)**"에서 추가하십시오.**
 
-Fill out the required fields and click **Send**. \
-Once more, check the receiver’s address and familiarize yourself with the commission on the transfer. \
-If everything checks out, enter your seed **password** and click **Confirm transaction**.
+**(2) 보낼 토큰의 액수(갯수)를 입력하세요.**
+
+**(3)** [**받을 사람의 주소**](sending-and-receiving-tokens.md#receiving)**를 입력하세요.**
+
+**(4) 커멘트를 입력하세요 (받을 사람이 귀하로 하여금 특정 메시지를 써달라고 요구하는 경우가 있을 수 있습니다.)**
+
+필요한 필드(field)를 작성하시고 "**전송(Send)**"을 누르십시오.
+
+확실히 하기 위해, 받을 사람의 주소를 더욱 분명하게 확인해 보십시오. 블록체인 수수료 개념과도 보다 친숙해지시는 것이 송금 숙련도를 높일 수 있습니다.&#x20;
+
+모든 것이 확실히 확인되었다면 귀하의 **암호를 입력**하시고 "**거래확인(Confirm transactions)**"을 눌러주십시오.
 
 ![](<../.gitbook/assets/image (29).png>)
 
-That’s it! The transaction will be processed in a couple of seconds and you will see it in your wallet. To view the transaction, go to the [transactions menu](transactions.md).
+완성입니다! 거래가 몇초 안으로 진행될 것이며 지갑에서 현황을 보실 수 있을 것입니다. 거래내역을 확인하고 싶으시다면 [거래메뉴(transactions menu)](transactions.md)로 가서 보시면 됩니다.&#x20;
