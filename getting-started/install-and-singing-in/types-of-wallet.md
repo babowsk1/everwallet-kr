@@ -1,14 +1,17 @@
-# Types of wallet
+# 각종 지갑 형식 설명
 
-EVER Wallet supports the creation of several types of wallets, which differ in the specifics of their work:
+에버월렛은 다양한 형식의 지갑생성을 지원합니다. 이는 다음과 같습니다.
 
-**SafeMultisig** - formally verified Multisig wallet. \
-**SafeMultisig24** - with a SafeMultisig wallet custodian confirmations take up to 1 hour, with a SafeMultisig24 it will take up to 24 hours. If the required number of signatures is not reached by the time limit, the transaction will be nullified. \
-**SetCodeMultisigWallet** - Multisig wallet with the possibility to change codes and custodians. **BridgeMultisigWallet** - this kind of wallet differs from SafeMultisig because it does not have payload limits.&#x20;
+**세이프멀티시그(SafeMultisig)** - 공식적으로 검증된 멀티시그(다중서명)지갑\
+**세이프멀티시그24(SafeMultisig24)** - 세이프멀티시그(다중서명)지갑의 관리인의 서명확인은 일반적으로 최대 1시간이 소요되지만 세이프멀티시그24(SafeMultisig24)는 최대 24시간동안 지갑의 관리인 서명확인이 가능합니다. 제한 시간까지 필요한 서명 수에 도달하지 못하면 해당 거래는 실행되지 않습니다.
+
+**셋코드멀티시그(SetCodeMultisigWallet)** - 코드와 관리인을 변경할 수 있는 다중서명 지갑입니다.
+
+**브리지멀티시그(BridgeMultisigWallet)** - 페이로드(payload)의 제한이 없는 다중서명 지갑입니다.
 
 {% hint style="info" %}
-If you want to use a multisig wallet with 3 or more custodians on [FlatQube ](broken-reference)and [Octus Bridge](https://docs.octusbridge.io/), be sure to use **BridgeMultisigWallet** type!
+3명 혹은 그 이상의 관리인과 [플랫큐브(FlatQube)](broken-reference/) 혹은 [옥터스 브리지(Octus Bridge)](https://docs.octusbridge.io/)에서 다중서명 지갑을 이용하시려면 꼭 브리지멀티시그 타입을 사용하시기 바랍니다.
 {% endhint %}
 
-**Surf** - Technically, this kind of wallet is the same as SetCodeMultisig. You should use this kind of wallet to import your Ever Surf wallet. \
-**WalletV3** - this is a small and simple contract that allows you to deploy your wallet at the same time as you make a transfer and has a 24-word seed phrase.
+**서프(Surf)** - 엄밀히 보아 이 형식의 지갑은 셋코드멀티시그(SetCodeMultisig)와 동일합니다. 이 형식은 에버서프(EVER Surf)월렛을 불러오기(import)할 때 사용합니다. \
+**월렛V3(WalletV3)** - 간단한 형태의 지갑으로 송금과 동시에 활성화되며 총 24개의 단어로 이뤄진 시드키를 사용합니다.

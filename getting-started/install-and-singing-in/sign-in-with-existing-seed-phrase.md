@@ -1,10 +1,10 @@
-# Sign in with existing seed phrase
+# 기존 이미 보유한 시드키로 로그인하기
 
-If you have already created a wallet on the Everscale network, you can add it to your EVER Wallet using your existing seed phrase.
+이미 에버스케일 네트워크에서 귀하의 지갑을 생성한 적이 있다면, 해당 지갑의 시드키를 입력하여 귀하의 에버월렛에 추가할 수 있습니다.
 
-1. Choose **Sign in with Seed Phrase**&#x20;
-2. Choose a [**type of your wallet**](types-of-wallet.md)&#x20;
-3. Enter your seed phrase&#x20;
-4. Create a password. You’re going to need your password in order to confirm all the transactions you make with the wallet.
+1. **시드키로 로그인하기(Sign in with Seed Phrase)** 선택
+2. [**지갑형태(type of your wallet)**](types-of-wallet.md) 선택
+3. 시드키를 입력하세요&#x20;
+4. 암호를 생성하세요. 귀하의 지갑에서 거래를 승인하려면 이후로도 (지금 생성하시는) 이 암호가 필요합니다.
 
 ![](<../../.gitbook/assets/image (37).png>)
