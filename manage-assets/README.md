@@ -2,5 +2,5 @@
 description: Learn how to manage your EVER Wallet assets.
 ---
 
-# 📚 Manage assets
+# 자산관리
 
