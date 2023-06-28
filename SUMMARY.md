@@ -15,7 +15,7 @@
     * [각종 지갑 형식 설명](getting-started/install-and-singing-in/types-of-wallet.md)
     * [활성화(Deploy)](getting-started/install-and-singing-in/deploy/README.md)
       * [귀하의 지갑 활성화(Deploy)하기](getting-started/install-and-singing-in/deploy/how-to-deploy-your-wallet/README.md)
-        * [EVER Wallet App](getting-started/install-and-singing-in/deploy/how-to-deploy-your-wallet/ever-wallet-app.md)
+        * [에버월렛 앱(App)](getting-started/install-and-singing-in/deploy/how-to-deploy-your-wallet/ever-wallet-app.md)
         * [EVER Wallet Extension](getting-started/install-and-singing-in/deploy/how-to-deploy-your-wallet/ever-wallet-extension.md)
   * [EVER 구매방법 안내](getting-started/how-to-get-ever.md)
 * [Manage assets](manage-assets/README.md)
