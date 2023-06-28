@@ -21,7 +21,7 @@
 * [자산관리](manage-assets/README.md)
   * [귀하의 지갑으로 토큰 추가하는 방법 안내](manage-assets/how-to-add-tokens-to-your-wallet.md)
   * [토큰 전송(송금)과 수신(입금)](manage-assets/sending-and-receiving-tokens.md)
-  * [Untitled](manage-assets/transactions.md)
+  * [거래내역](manage-assets/transactions.md)
 * [Seed phrase, keys and accounts](seed-phrase-keys-and-accounts/README.md)
   * [Architecture](seed-phrase-keys-and-accounts/architecture.md)
   * [Seed phrase management](seed-phrase-keys-and-accounts/seed-phrase-management/README.md)
