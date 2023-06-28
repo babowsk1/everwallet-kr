@@ -1,2 +1,2 @@
-# 🔑 Seed phrase, keys and accounts
+# 시드키, 키, 계정
 
