@@ -19,7 +19,7 @@
         * [에버월렛 크롬 확장프로그램 사용시](getting-started/install-and-singing-in/deploy/how-to-deploy-your-wallet/ever-wallet-extension.md)
   * [EVER 구매방법 안내](getting-started/how-to-get-ever.md)
 * [자산관리](manage-assets/README.md)
-  * [How to add tokens to your wallet](manage-assets/how-to-add-tokens-to-your-wallet.md)
+  * [귀하의 지갑으로 토큰 추가하는 방법 안내](manage-assets/how-to-add-tokens-to-your-wallet.md)
   * [Sending and receiving tokens](manage-assets/sending-and-receiving-tokens.md)
   * [Transactions](manage-assets/transactions.md)
 * [Seed phrase, keys and accounts](seed-phrase-keys-and-accounts/README.md)
