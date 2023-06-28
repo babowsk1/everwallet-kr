@@ -1,6 +1,6 @@
 ---
-description: Learn to manage seed phrases, keys and EVER Wallet accounts.
+description: 시드키와 키, 에버월렛을 관리하는 방법에 대해 배워보세요
 ---
 
-# Seed phrase management
+# 시드키 관리방법 안내
 
