@@ -14,10 +14,6 @@ description: 에버월렛은 매우 편리한 시드키, 키 및 계정관리 �
 
 공개키는 계정의 저장소입니다. 각 공개키는 [유형별](../getting-started/install-and-singing-in/types-of-wallet.md)로 하나의 계정과 연결될 수 있습니다. 공개키는 [다중서명(멀티시그) 지갑](../multisig/)을 만들 때 필요합니다. [배포](../multisig/creating-a-multisig-account.md) 중 관리인으로 입력되는 주소이기도 하며 거래확인 요청이 그곳으로 전송됩니다.
 
-The public key is the repository of your accounts.\
-Each public key can be associated with one account of [each type](../getting-started/install-and-singing-in/types-of-wallet.md).\
-The public key is needed when creating a [Multisig wallet](../multisig/) - it is its address that is entered as a custodian during its [deployment ](../multisig/creating-a-multisig-account.md)and a request to confirm the transaction will be sent to it.
-
 ## [계정](account-management/)
 
 계정은 아키텍쳐에서 기본이 되는 요소입니다. 계정은 귀하가 자신의 토큰을 [전송(송금)](../manage-assets/sending-and-receiving-tokens.md#sending)하도록 해주며 보관 및 [수신(입금)](../manage-assets/sending-and-receiving-tokens.md#receiving)받을 수 있도록 해줍니다. 귀하가 다른 사람에게 [토큰을 전송](../manage-assets/sending-and-receiving-tokens.md#sending)하거나 [받을 때](../manage-assets/sending-and-receiving-tokens.md#receiving) 사용하는 것이 바로 이 계정주소입니다.&#x20;

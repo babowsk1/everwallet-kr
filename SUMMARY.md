@@ -36,7 +36,7 @@
 * [멀티시그](multisig/README.md)
   * [Creating a Multisig account](multisig/creating-a-multisig-account.md)
   * [Add a Multisig account](multisig/add-a-multisig-account.md)
-* [컨셉](concepts/README.md)
+* [기타 설명](concepts/README.md)
   * [Different transport: Mainnet (GQL) and Mainnet (ADL)](concepts/different-transport-mainnet-gql-and-mainnet-adl.md)
   * [Fees](concepts/fees.md)
   * [EVER & WEVER](concepts/ever-and-wever.md)
