@@ -26,7 +26,7 @@
   * [아키텍쳐(Architecture)](seed-phrase-keys-and-accounts/architecture.md)
   * [시드키 관리방법 안내](seed-phrase-keys-and-accounts/seed-phrase-management/README.md)
     * [에버월렛 크롬 확장프로그램](seed-phrase-keys-and-accounts/seed-phrase-management/ever-wallet-extension.md)
-    * [EVER Wallet App](seed-phrase-keys-and-accounts/seed-phrase-management/ever-wallet-app.md)
+    * [에버월렛 앱](seed-phrase-keys-and-accounts/seed-phrase-management/ever-wallet-app.md)
   * [키 관리](seed-phrase-keys-and-accounts/keys-management/README.md)
     * [에버월렛 앱](seed-phrase-keys-and-accounts/keys-management/ever-wallet-app.md)
     * [EVER Wallet Extension](seed-phrase-keys-and-accounts/keys-management/ever-wallet-extension.md)
