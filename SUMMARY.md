@@ -34,7 +34,7 @@
     * [EVER Wallet App](seed-phrase-keys-and-accounts/account-management/ever-wallet-app.md)
     * [EVER Wallet Extension](seed-phrase-keys-and-accounts/account-management/ever-wallet-extension.md)
 * [멀티시그](multisig/README.md)
-  * [Creating a Multisig account](multisig/creating-a-multisig-account.md)
+  * [다중서명(멀티시그) 지갑 생성방법 안내](multisig/creating-a-multisig-account.md)
   * [Add a Multisig account](multisig/add-a-multisig-account.md)
 * [기타 설명](concepts/README.md)
   * [Different transport: Mainnet (GQL) and Mainnet (ADL)](concepts/different-transport-mainnet-gql-and-mainnet-adl.md)
