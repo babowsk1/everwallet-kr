@@ -1,11 +1,9 @@
-# EVER Scan - Everscale explorer
+# 에버스캔 - 에버스케일 탐색기
 
-**Blockchain explorer** is the Google of cryptocurrencies and blockchain. \
-Ton Scan, Everscale explorer, allow users to access different details related to transactions on specific wallet addresses and blockchains including amount transacted, sources and destination of funds, and status of the transactions.
+**블록체인 탐색기**는 가상자산과 블록체인의 구글같은 존재입니다. 에버스케일의 대표적인 탐색기인 에버스캔은 거래와 관련하여 다양한 정보를 제공합니다. 이는 거래액, 출처, 목적지, 그리고 거래상태 등을 포함합니다.&#x20;
 
-EVER Scan will allow you to search and explore data about recently mined blocks or recently carried out transactions on a blockchain, view a live feed of blocks as they are mined, as well as the data related to the blocks.
+**에버스캔은** 최근 생성된 블록과 처리된 거래, 블록 관련 상세정보를 제공합니다.&#x20;
 
-You can go to any transaction page in EVER Scan [directly from your EVER Wallet](../manage-assets/transactions.md#transaction-information).
+에버스캔은 귀하의 지갑에서[ 바로 접속](../manage-assets/transactions.md#transaction-information)하여 사용하실 수 있습니다.&#x20;
 
 ![](<../.gitbook/assets/image (23).png>)
-

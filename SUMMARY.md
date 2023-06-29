@@ -40,7 +40,7 @@
   * [지갑내 선택 가능한 다른 네트워크의 종류 : 메인넷(GQL)과 메인넷(ADL)](concepts/different-transport-mainnet-gql-and-mainnet-adl.md)
   * [블록체인 사용요금](concepts/fees.md)
   * [EVER와 WEVER에 대한 설명](concepts/ever-and-wever.md)
-  * [EVER Scan - Everscale explorer](concepts/ever-scan-everscale-explorer.md)
+  * [에버스캔 - 에버스케일 탐색기](concepts/ever-scan-everscale-explorer.md)
 
 ## See also
 
