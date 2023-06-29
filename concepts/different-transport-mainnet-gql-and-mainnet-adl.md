@@ -1,13 +1,10 @@
-# Different transport: Mainnet (GQL) and Mainnet (ADL)
+# 지갑내 선택 가능한 다른 네트워크의 종류 : 메인넷(GQL)과 메인넷(ADL)
 
-By clicking on the transport name at the top of your screen, you can change between various networks.
+화면 상단의 네트워크명을 클릭하시면 다양한 네트워크를 선택할 수 있습니다.
 
 ![](<../.gitbook/assets/image (34).png>)
 
-This can be useful if you are experiencing problems with transactions through your wallet.
+지갑을 이용한 거래처리 시 문제가 발생할 시 이것은 상당히 유용한 옵션이 될 수 있습니다.&#x20;
 
-GQL is main.ton.dev&#x20;
+GQL은 main.ton.dev를 뜻합니다. ADNL은 GQL에 문제가 있을시 백업 네트워크로 작동할 수 있습니다. 일반적으로 GQL이 속도면에서 더 빠릅니다. ADNL은 C++노드용의 간단한 RPC서버이기 때문에 속도가 느린 반면 어떤 노드와도 작동한다는 장점을 가지고 있습니다. 가까운 미래에 우리는 이를 오픈소스화할 예정입니다. 일반적으로 귀하는 GQL을 선택하여 사용할 수 있으나 혹시 문제가 발생한다면 ADNL로 바꿔서 사용하시면 됩니다.&#x20;
 
-ADNL is a backup transport in case of problems with GQL
-
-In general, the difference is that GQL works faster, ADNL is a simple RPC server for a C ++ node, it works slower, but it can work with any node, in the near future we will publish it in open source and it will be possible to connect a wallet to your nodes. In general you can choose GQL, in case of problems the wallet should switch to ADNL itself.
