@@ -1,4 +1,3 @@
-# Fees
+# 블록체인 사용요금
 
-Whenever your address interacts with Everscale network contracts, you need to pay a fee. \
-This type of commission is called **Blockchain fees**. Any other blockchain works in a similar way. Fees are one of the ways in which validators are rewarded for their work: fees from all transactions that have been included in newly created blocks are distributed among all participating validators. Everscale network fees are negligible and are limited to a few cents when making swaps.
+에버스케일 네트워크 내에서 거래를 진행할 시 "사용료"가 발생합니다. 이런 종류의 수수료를 "**블록체인 사용요금**"이라고 칭합니다. 이는 다른 블록체인 네트워크에서도 비슷합니다. 이런 요금은 네트워크 검증자(밸리데이터)의 작업에 대한 보상으로 주어집니다. 새로 생성된 블록에 포함된 모든 거래의 수수료는 검증작업에 참여한 모든 검증자에게 분배됩니다. 에버스케일의 수수료는 극히 낮은 수준이며 환전시 몇 센트 정도에 불과합니다.

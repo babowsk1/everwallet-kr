@@ -38,7 +38,7 @@
   * [다중서명(멀티시그)계정 추가방법 안내](multisig/add-a-multisig-account.md)
 * [기타 설명](concepts/README.md)
   * [지갑내 선택 가능한 다른 네트워크의 종류 : 메인넷(GQL)과 메인넷(ADL)](concepts/different-transport-mainnet-gql-and-mainnet-adl.md)
-  * [Fees](concepts/fees.md)
+  * [블록체인 사용요금](concepts/fees.md)
   * [EVER & WEVER](concepts/ever-and-wever.md)
   * [EVER Scan - Everscale explorer](concepts/ever-scan-everscale-explorer.md)
 
