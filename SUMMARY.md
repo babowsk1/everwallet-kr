@@ -9,7 +9,7 @@
     * [귀하의 지갑설치 방법안내](getting-started/install-and-singing-in/how-to-install-your-wallet/README.md)
       * [에버월렛 앱](getting-started/install-and-singing-in/how-to-install-your-wallet/ever-wallet-app.md)
       * [에버월렛 구글 확장프로그램](getting-started/install-and-singing-in/how-to-install-your-wallet/ever-wallet-extension.md)
-    * [새 지갑 만들고 계정 생성하기](getting-started/install-and-singing-in/creating-a-new-wallet.md)
+    * [새 지갑 만들고 계정 생성하기](getting-started/install-and-singing-in/creating-a-new-wallet.md)
     * [기존 이미 보유한 시드키로 로그인하기](getting-started/install-and-singing-in/sign-in-with-existing-seed-phrase.md)
     * [기존 백업으로 로그인하기](getting-started/install-and-singing-in/sign-in-with-existing-backup.md)
     * [각종 지갑 형식 설명](getting-started/install-and-singing-in/types-of-wallet.md)
